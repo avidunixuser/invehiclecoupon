@@ -83,8 +83,7 @@ Y:1, 0 (whether the coupon is accepted)
 
 Code Used: Python
 
-Packages: Pandas, Numpy, Matplotlib, Seaborn, Sklearn, and Imblearn
-
+Packages: Pandas, Numpy, Matplotlib, Seaborn
 
 ## Data Cleansing
 
